@@ -1,5 +1,5 @@
-#차량 탑승 인원 감지 시스템
-#Vehicle occupant Detection System
+# 차량 탑승 인원 감지 시스템
+# Vehicle occupant Detection System
 #### Project Execution : 2020.06 ~ 2021.06
 #### Project Manager : Prof. Sung Jin Jang
 #### Project Engineer : Ji won Lee, Dong Jin Lee
@@ -9,13 +9,13 @@
 이 차로는 9인승 이상 승용자동차 및 승합자동차에 6명 이상 탑승해 있어야만 이용가능한데 법규를 지키지 않고 이용하는 사람들이 계속 늘어나  **차량 탑승 인원 감지 시스템**을 구축하였다.
 
 
-###1.차량 탑승 인원 탐지 기술
+### 1.차량 탑승 인원 탐지 기술
 ||| 
 |:---:|:---:|
 |![](../../image01.png)|![](../../image02.png)|
 |현장 시스템 구성도(1)|현장 시스템 구성도(2)|
 
-###2.Block Diagram & Flow chart
+### 2.Block Diagram & Flow chart
 ||
 |:---:|
 |![](../../image03.png)|
@@ -32,7 +32,7 @@
 
 
 
-##Environment
+## Environment
 |                |                          |
 |-------------------|-------------------------------|
 |Server OS	 		|`Ubuntu 18.04 	`				 |    
